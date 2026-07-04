@@ -1,3 +1,4 @@
 # GPU-Computing-introduction
 
-[图片描述](https://github.com/inulloo/GPU-Computing-introduction/demo.png)
+[图片描述](https://github.com/inulloo/GPU-Computing-introduction/blob/main/demo.png)
+
