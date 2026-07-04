@@ -1,5 +1,6 @@
 # GPU-Computing-introduction
 
-[图片描述](https://github.com/inulloo/GPU-Computing-introduction/blob/main/demo.png)
+混沌双摆 GPU 演示
+Chaotic Double Pendulum GPU Demo
 
-https://github.com/inulloo/GPU-Computing-introduction/blob/main/demo.png
+![图片描述](https://github.com/inulloo/GPU-Computing-introduction/blob/main/demo.png)
